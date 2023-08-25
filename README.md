@@ -1,2 +1,2 @@
-# LocalStorage
+# Local-Storage
 Local Storage Items
